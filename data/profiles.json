@@ -1,0 +1,83 @@
+{
+  "291022626082652162": {
+    "userId": "291022626082652162",
+    "username": "raphaweu",
+    "createdAt": "2025-07-06T18:43:48.493Z",
+    "items": [
+      {
+        "name": "faca corta",
+        "description": "carne",
+        "quantity": 6,
+        "obtainedAt": "2025-07-06T18:45:28.398Z"
+      },
+      {
+        "name": "faca",
+        "description": "corta",
+        "quantity": 3,
+        "obtainedAt": "2025-07-06T20:21:47.790Z"
+      },
+      {
+        "name": "asdbasud",
+        "description": "asdbusadu",
+        "quantity": 2
+      },
+      {
+        "name": "faca corte",
+        "description": "corta",
+        "quantity": 1
+      }
+    ],
+    "inventory": [
+      {
+        "name": "faca corta",
+        "description": "carne",
+        "quantity": 6,
+        "obtainedAt": "2025-07-06T18:45:28.398Z"
+      },
+      {
+        "name": "faca",
+        "description": "corta",
+        "quantity": 2,
+        "obtainedAt": "2025-07-06T20:21:47.790Z"
+      }
+    ]
+  },
+  "320583655024230400": {
+    "userId": "320583655024230400",
+    "username": "alehscm",
+    "createdAt": "2025-07-06T19:52:54.959Z",
+    "items": [],
+    "inventory": []
+  },
+  "570698459397488653": {
+    "userId": "570698459397488653",
+    "username": "desenbh",
+    "createdAt": "2025-07-06T23:21:30.992Z",
+    "items": []
+  },
+  "497092921623838721": {
+    "userId": "497092921623838721",
+    "username": "mrdecoy000",
+    "createdAt": "2025-08-07T21:55:20.368Z",
+    "items": []
+  },
+  "323966385917263872": {
+    "userId": "323966385917263872",
+    "username": "jogabemgames",
+    "createdAt": "2025-08-07T22:03:47.567Z",
+    "items": []
+  },
+  "723913692651192410": {
+    "userId": "723913692651192410",
+    "username": "infinityy._.",
+    "createdAt": "2025-08-07T22:07:04.132Z",
+    "items": [
+      {
+        "name": "Colar",
+        "description": "Colar com uma grande presa de alguma criatura - Tem ele desde que se conhece por gente",
+        "quantity": 1,
+        "obtainedAt": "2025-08-07T22:10:39.461Z"
+      }
+    ]
+  }
+}

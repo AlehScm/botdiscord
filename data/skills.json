@@ -1,0 +1,31 @@
+{
+  "497092921623838721": {
+    "userId": "497092921623838721",
+    "username": "mrdecoy000",
+    "skills": [
+      {
+        "updatedAt": "2025-08-07T22:12:12.266Z",
+        "nome": "Nitoryu",
+        "descricao": "Coordenação e habilidade para manusear espadas"
+      }
+    ],
+    "createdAt": "2025-08-07T21:59:08.684Z"
+  },
+  "323966385917263872": {
+    "userId": "323966385917263872",
+    "username": "jogabemgames",
+    "skills": [
+      {
+        "updatedAt": "2025-08-07T22:12:08.209Z",
+        "nome": "Roubo",
+        "descricao": "NV: 1 - habilidade permite poder roubar qualquer objeto."
+      },
+      {
+        "nome": "Surdina",
+        "descricao": "NV: 1 - capaz de andar silenciosamente",
+        "createdAt": "2025-08-07T22:14:36.746Z"
+      }
+    ],
+    "createdAt": "2025-08-07T22:09:43.224Z"
+  }
+}
