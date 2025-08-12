@@ -64,9 +64,9 @@ Todas as ações são registradas no console com:
 ## 🔧 Permissões do Bot
 
 Certifique-se de que o bot tenha:
-- ✅ Send Messages
-- ✅ Embed Links
-- ✅ Read Message History
+   - ✅ Send Messages
+   - ✅ Embed Links
+   - ✅ Read Message History
 - ✅ Use Slash Commands
 
 ## 🚀 Pronto para usar!

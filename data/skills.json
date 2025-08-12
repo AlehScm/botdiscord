@@ -27,5 +27,51 @@
       }
     ],
     "createdAt": "2025-08-07T22:09:43.224Z"
+  },
+  "291022626082652162": {
+    "userId": "291022626082652162",
+    "username": "raphaweu",
+    "skills": [
+      {
+        "nome": "cartografia",
+        "descricao": "NV:5",
+        "createdAt": "2025-08-08T02:14:24.146Z"
+      },
+      {
+        "nome": "Manuseio de Espada",
+        "descricao": "nv1",
+        "createdAt": "2025-08-09T03:49:14.581Z"
+      },
+      {
+        "nome": "Marca do Berserker",
+        "descricao": "nv1",
+        "createdAt": "2025-08-09T05:34:55.011Z"
+      }
+    ],
+    "createdAt": "2025-08-08T02:14:24.146Z"
+  },
+  "324594617129369601": {
+    "userId": "324594617129369601",
+    "username": "indigo.co",
+    "skills": [
+      {
+        "nome": "percepção",
+        "descricao": "NV1: consegue perceber melhor as coisas ao seu redor",
+        "createdAt": "2025-08-09T00:10:17.573Z"
+      }
+    ],
+    "createdAt": "2025-08-09T00:10:17.573Z"
+  },
+  "723913692651192410": {
+    "userId": "723913692651192410",
+    "username": "infinityy._.",
+    "skills": [
+      {
+        "nome": "Marca nv.1",
+        "descricao": "Causar arrepios em pessoas próximas",
+        "createdAt": "2025-08-09T01:08:53.549Z"
+      }
+    ],
+    "createdAt": "2025-08-09T01:08:53.549Z"
   }
 }

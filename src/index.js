@@ -86,5 +86,12 @@ process.on('unhandledRejection', error => {
     console.error('Erro não tratado:', error);
 });
 
+const mensagemMencionada = require('./commands/pergunta');
+
+client.on('messageCreate', async (message) => {
+    // Adicione outras verificações aqui se necessário
+    await mensagemMencionada.execute(message);
+});
+
 // Conectar o bot
 client.login(process.env.DISCORD_TOKEN); 
